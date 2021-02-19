@@ -1,7 +1,7 @@
  # ༼ つ ◕_◕ ༽つ ¡Hola! Soy Hugo Murillo 👋
  
- - Bienvenido a mi perfil de Github, date gusto.
- - ![me](https://thumbs.gfycat.com/ZigzagLoathsomeIridescentshark-max-14mb.gif)
+ - Bienvenido a mi perfil de Github, espero encuentres lo que buscas.
+  ![me](https://thumbs.gfycat.com/ZigzagLoathsomeIridescentshark-max-14mb.gif)
  
  ## Últimas Noticias
  - Ingeniero en proceso.
