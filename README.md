@@ -9,3 +9,4 @@
  - Buscando trabajo.
  - Manteniendo las ganas de salir adelante.
 
+![Top Langs](https://github-readme-stats.huguito17.vercel.app/api/top-langs/?username=huguito17&layout=compact&theme=dracula&hide_border=true)
