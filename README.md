@@ -2,7 +2,6 @@
  
  - Bienvenido a mi perfil de Github, espero encuentres lo que buscas.
   ![me](https://thumbs.gfycat.com/ZigzagLoathsomeIridescentshark-max-14mb.gif)
-  ![me](http://25.media.tumblr.com/tumblr_m9sg7t90ON1qdqkqzo2_1280.gif)
  
  ## Últimas Noticias
  - Ingeniero en proceso.
